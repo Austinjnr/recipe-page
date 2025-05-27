@@ -11,7 +11,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## 🔗 Links
 
-- 🧠 Solution on Frontend Mentor[Check solution](https://www.frontendmentor.io/solutions/recipe-main-page-layout-BqaoR-Y-oz)
+- 🧠 Solution on Frontend Mentor: [Check solution](https://www.frontendmentor.io/solutions/recipe-main-page-layout-BqaoR-Y-oz)
 - 💻 Live Site: [View site](https://recipe-page-weld-one.vercel.app/)
 
 ## 🛠️ Built With
